@@ -1,4 +1,4 @@
-# sampling_vba
+# Sampling Methodes in VBA(Excel)
 
 This repository contains VBA functions for performing statistical sampling analysis in Microsoft Excel. These functions are designed to automate the calculation of key statistical parameters, such as the mean and variance, for various sampling methods.
 
