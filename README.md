@@ -2,6 +2,8 @@
 
 This repository contains VBA functions for performing statistical sampling analysis in Microsoft Excel. These functions are designed to automate the calculation of key statistical parameters, such as the mean and variance, for various sampling methods.
 
+![Sampling Clusters](sampling.jpeg)
+
 ## Purpose
 
 The goal of this project is to provide reusable VBA functions that simplify and streamline the process of statistical analysis within Excel. By using these functions, users can avoid manual calculations and quickly obtain accurate results for different sampling techniques.
